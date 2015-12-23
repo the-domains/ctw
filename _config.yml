@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#B8C0C0'
+    - '#485808'
+    - '#986078'
+    - '#909840'
+    - '#000000'
+  brandStrength: 0.97622
+  lightness: 0.196325
+  rhythmicContrast: 0.106348
+  saturation: 0.644003
+cta: {}
+layout_spectrum: 0.700658
+name: CTW
+opengraph: {}
+purpose: []
+typography_spectrum: 0.365132
